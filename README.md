@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hgorkemtunc&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hgorkemtunc&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=hgorkemtunc&label=Profile%20views&color=105FE1&style=flat-square)](https://komarev.com/ghpvc/?username=hgorkemtunc)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
