@@ -19,7 +19,7 @@
 ```yaml
 name: Hüseyin Görkem Tunç
 role: Tech Lead / Backend Developer
-location: İzmir, Türkiye
+location: İzmir/İstanbul, Türkiye
 
 focus:
   - Backend development
