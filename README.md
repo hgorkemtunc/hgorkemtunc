@@ -1,21 +1,258 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hgorkemtunc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hgorkemtunc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hgorkemtunc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hgorkemtunc) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=215&color=0:020617,30:172554,60:1D4ED8,85:0891B2,100:22D3EE&text=Hüseyin%20Görkem%20Tunç&fontColor=F8FAFC&fontSize=38&fontAlignY=35&desc=Tech%20Lead%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20E-commerce%20Systems&descAlignY=55&descSize=17&animation=fadeIn" alt="Hüseyin Görkem Tunç" />
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hgorkemtunc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hgorkemtunc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hgorkemtunc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=PHP+%26+Laravel+Backend+Development;E-commerce+%26+Integration+Systems;Performance%2C+Reliability+%26+Maintainability;Technical+Leadership+%26+Production+Engineering" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hgorkemtunc&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
+<br />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hgorkemtunc&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hgorkemtunc)
+[![Website](https://img.shields.io/badge/grkm.dev-111827?style=for-the-badge\&logo=googlechrome\&logoColor=38BDF8)](https://grkm.dev)
+[![Email](https://img.shields.io/badge/Email-312E81?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gorkemtunc99@gmail.com)
+
+</div>
 
 ---
-[![Profile views](https://komarev.com/ghpvc/?username=hgorkemtunc&label=Profile%20views&color=105FE1&style=flat-square)](https://komarev.com/ghpvc/?username=hgorkemtunc)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
+
+```yaml
+name: Hüseyin Görkem Tunç
+role: Tech Lead / Backend Developer
+location: İzmir, Türkiye
+
+focus:
+  - Backend development
+  - E-commerce systems
+  - Third-party integrations
+  - Performance and reliability
+  - Technical leadership
+```
+
+I am a **Tech Lead and Backend Developer** with a strong focus on PHP and Laravel-based applications.
+
+I work primarily on B2B and B2C e-commerce systems, backend services, APIs and third-party integrations. My responsibilities include technical planning, architecture decisions, code reviews, production troubleshooting and hands-on development.
+
+I value software that is maintainable, measurable, secure and operationally sustainable.
+
+---
+
+## `> expertise`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Backend Development
+
+* PHP and Laravel applications
+* REST API development
+* Business workflow implementation
+* Background jobs and queues
+* Authentication and authorization
+* Legacy application maintenance
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 Integrations
+
+* ERP integrations
+* Marketplace integrations
+* Payment providers
+* Cargo and logistics services
+* Invoice services
+* SMS and email providers
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Performance
+
+* Database query analysis
+* Index and cache strategies
+* Application profiling
+* Queue performance
+* Memory and I/O investigation
+* Incremental optimization
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ Production Engineering
+
+* Production incident analysis
+* Error handling and logging
+* Safe deployment practices
+* Rollback planning
+* Data consistency
+* Operational maintainability
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> core-stack`
+
+<div align="center">
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-075985?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-1F2937?style=for-the-badge\&logo=mariadb\&logoColor=C0765A)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+</div>
+
+---
+
+## `> engineering-principles`
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📏 Measure
+
+Measure the system before proposing an optimization.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔍 Diagnose
+
+Find the actual root cause instead of treating symptoms.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩 Simplify
+
+Prefer the smallest maintainable solution that solves the problem.
+
+</td>
+
+<td align="center" width="25%">
+
+### ↩️ Recover
+
+Consider rollback and recovery before production changes.
+
+</td>
+</tr>
+</table>
+
+```text
+Measure before optimizing.
+Prefer clarity over unnecessary abstraction.
+Treat integrations as failure-prone by default.
+Design production changes with rollback in mind.
+Keep operational complexity proportional to actual needs.
+```
+
+---
+
+## `> areas-of-interest`
+
+<div align="center">
+
+![E-commerce](https://img.shields.io/badge/E--commerce-2563EB?style=for-the-badge)
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-7C3AED?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design-0891B2?style=for-the-badge)
+![Integrations](https://img.shields.io/badge/Integrations-0F766E?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-EA580C?style=for-the-badge)
+![Reliability](https://img.shields.io/badge/Reliability-475569?style=for-the-badge)
+
+</div>
+
+---
+
+## `> github-stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hgorkemtunc&hide_border=true&background=0D1117&stroke=334155&ring=38BDF8&fire=A78BFA&currStreakNum=F8FAFC&sideNums=C9D1D9&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hgorkemtunc&theme=github_dark" alt="GitHub Profile Summary" />
+
+</div>
+
+> Most of my professional work is stored in private repositories.
+
+---
+
+## `> connect`
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 Website
+
+Personal website and professional profile
+
+[grkm.dev](https://grkm.dev)
+
+</td>
+
+<td align="center" width="33%">
+
+### 💼 LinkedIn
+
+Professional experience and background
+
+[LinkedIn Profile](https://www.linkedin.com/in/hgorkemtunc)
+
+</td>
+
+<td align="center" width="33%">
+
+### ✉️ Email
+
+Direct communication
+
+[Send Email](mailto:gorkemtunc99@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=hgorkemtunc\&label=Profile+Views\&color=0891B2\&style=for-the-badge)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,30:172554,60:1D4ED8,85:0891B2,100:22D3EE" alt="Footer" />
+
+</div>
